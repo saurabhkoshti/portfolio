@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c5382ef7.css",
+    "main.js": "/portfolio/static/js/main.d79b487d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/photo.png": "/portfolio/static/media/photo.c95374557caf4d08d997.png",
+    "static/media/download-icon.png": "/portfolio/static/media/download-icon.d1cb3704b58a748d297c.png",
+    "static/media/Saurabh-Koshti-Resume.pdf": "/portfolio/static/media/Saurabh-Koshti-Resume.b7620cb41dfa1be30d98.pdf",
+    "static/media/RestCountries.jpeg": "/portfolio/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
+    "static/media/github-pink.svg": "/portfolio/static/media/github-pink.d2b5cc398b7e54fe39683cbd0e5f3391.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/linkedin-pink.svg": "/portfolio/static/media/linkedin-pink.299637610c1bb00dccbcbe7381607da9.svg",
+    "main.c5382ef7.css.map": "/portfolio/static/css/main.c5382ef7.css.map",
+    "main.d79b487d.js.map": "/portfolio/static/js/main.d79b487d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5382ef7.css",
+    "static/js/main.d79b487d.js"
+  ]
+}
